@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya7768/DSA/tree/master/0001-two-sum) |
 | [1929-concatenation-of-array](https://github.com/Aditya7768/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya7768/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -17,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya7768/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
