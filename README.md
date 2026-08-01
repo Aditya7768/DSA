@@ -21,11 +21,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aditya7768/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Aditya7768/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya7768/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Aditya7768/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
