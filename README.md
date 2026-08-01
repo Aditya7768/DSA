@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya7768/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Aditya7768/DSA/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/Aditya7768/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya7768/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -23,9 +24,14 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya7768/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya7768/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
