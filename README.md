@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aditya7768/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Aditya7768/DSA/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Aditya7768/DSA/tree/master/0027-remove-element) |
 | [1929-concatenation-of-array](https://github.com/Aditya7768/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya7768/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya7768/DSA/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Aditya7768/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
