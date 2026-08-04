@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Aditya7768/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Aditya7768/DSA/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Aditya7768/DSA/tree/master/0283-move-zeroes) |
 | [1929-concatenation-of-array](https://github.com/Aditya7768/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya7768/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Aditya7768/DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Aditya7768/DSA/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
