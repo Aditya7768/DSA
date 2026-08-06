@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Aditya7768/DSA/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Aditya7768/DSA/tree/master/0283-move-zeroes) |
+| [0706-design-hashmap](https://github.com/Aditya7768/DSA/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/Aditya7768/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya7768/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/Aditya7768/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
+| [0706-design-hashmap](https://github.com/Aditya7768/DSA/tree/master/0706-design-hashmap) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Aditya7768/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -60,4 +62,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Aditya7768/DSA/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Aditya7768/DSA/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Aditya7768/DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
