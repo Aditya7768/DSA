@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Aditya7768/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Aditya7768/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/Aditya7768/DSA/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/Aditya7768/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya7768/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/Aditya7768/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/Aditya7768/DSA/tree/master/0706-design-hashmap) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Aditya7768/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
@@ -43,6 +45,7 @@
 | [0075-sort-colors](https://github.com/Aditya7768/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -59,10 +62,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -87,4 +92,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya7768/DSA/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
