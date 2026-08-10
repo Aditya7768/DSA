@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/Aditya7768/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/Aditya7768/DSA/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Aditya7768/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya7768/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -46,6 +47,7 @@
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -96,12 +99,26 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
