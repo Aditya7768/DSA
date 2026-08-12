@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya7768/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya7768/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Aditya7768/DSA/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya7768/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Aditya7768/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aditya7768/DSA/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya7768/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya7768/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aditya7768/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -133,4 +135,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aditya7768/DSA/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aditya7768/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya7768/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
