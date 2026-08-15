@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Aditya7768/DSA/tree/master/0009-palindrome-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya7768/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
