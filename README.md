@@ -19,6 +19,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Aditya7768/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/Aditya7768/DSA/tree/master/0706-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/Aditya7768/DSA/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Aditya7768/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya7768/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -59,6 +60,7 @@
 | [0229-majority-element-ii](https://github.com/Aditya7768/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya7768/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya7768/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/Aditya7768/DSA/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Aditya7768/DSA/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
@@ -75,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/Aditya7768/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Aditya7768/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aditya7768/DSA/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/Aditya7768/DSA/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,4 +159,9 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya7768/DSA/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Aditya7768/DSA/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Aditya7768/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
