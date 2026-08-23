@@ -167,4 +167,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Aditya7768/DSA/tree/master/0881-boats-to-save-people) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aditya7768/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
