@@ -170,5 +170,6 @@
 ## Database
 |  |
 | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Aditya7768/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aditya7768/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
